@@ -33,3 +33,6 @@ lerna-debug.log*
 *.sw?
 .DS_Store
 Thumbs.db
+# defense guide
+DEFENSE_GUIDE.md
+DEFENCE_GUIDE.md
