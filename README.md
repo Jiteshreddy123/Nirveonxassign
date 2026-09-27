@@ -11,9 +11,9 @@ The **Employee Directory** is designed to allow organizations to manage personne
 - **Viewer**: Read-only access to browse, search, filter, and view employee records and detailed profiles. Any attempt to modify data via the API is rejected with **HTTP 403 Forbidden**.
 
 Live Application Links:
-- **Frontend (Vercel)**: `https://<your-vercel-app-url>.vercel.app` *(Placeholder - configure upon deployment)*
-- **Backend (Render)**: `https://<your-render-service-url>.onrender.com` *(Placeholder - configure upon deployment)*
-- **Sample Test Endpoint**: `https://<your-render-service-url>.onrender.com/api/health`
+- **Frontend (Vercel)**: https://nirveonxassign.vercel.app
+- **Backend (Render)**: https://nirveonxassign.onrender.com
+- **Sample Test Endpoint**: https://nirveonxassign.onrender.com/api/health
 
 ---
 
